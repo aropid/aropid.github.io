@@ -2,7 +2,7 @@
 p.quote {
 	font-family: 'Inconsolata';
 	font-weight: lighter;
-	color: #D9D7D7;
+	color: #FFFFFF;
 	font-size: 10pt;
 	font-style: italic;
 	float: center;
@@ -11,7 +11,7 @@ p.quote {
 p.shouts {
 	font-family: 'Inconsolata';
 	font-weight: lighter;
-	color: #D9D7D7;
+	color: #FFFFFF;
 	font-size: 10pt;
 	margin-top: -8px;
 	float: center;
@@ -20,7 +20,7 @@ p.shouts {
 h1 {
 	font-family: 'Inconsolata';
 	font-weight: lighter;
-	color: #D9D7D7;
+	color: #FFFFFF;
 	font-size: 100pt;
 	top: 0px;
 	float: center;
@@ -30,7 +30,7 @@ h1 {
 h2 {
 	font-family: 'Inconsolata';
 	font-weight: lighter;
-	color: #D9D7D7;
+	color: #FFFFFF;
 	font-size: 20pt;
 	top: 0px;
 	margin-top: -100px;
@@ -40,7 +40,7 @@ h2 {
 h3 {
 	font-family: 'Inconsolata';
 	font-weight: lighter;
-	color: #D9D7D7;
+	color: #FFFFFF;
 	font-size: 20pt;
 	float: center;
 	text-align: center;
